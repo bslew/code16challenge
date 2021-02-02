@@ -5,6 +5,8 @@ plot just in 16-lines of code
 Author: Bartosz Lew <bartosz.lew@protonmail.com>
 Created on: 02 Feb 2021
 
+https://www.siepomaga.pl/maja
+https://code16challenge.pl/
 '''
 
 import matplotlib.pyplot as plt
@@ -26,4 +28,4 @@ plt.imshow(get_frac(*(-0.74, 0.06, -0.83, -0.03),nside=1000,a0=0+0j,blew_offset=
 plt.axis('off')
 plt.subplots_adjust(left=0, right=1,bottom=0,top=1) # 4 lines for nice plot
 
-plt.savefig("fractal.jpg",dpi=300) # 1 line for saving image
+plt.savefig("Julia_dla_Mai.jpg",dpi=100) # 1 line for saving image
