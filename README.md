@@ -1,6 +1,6 @@
 # Purpose
-This program shows how to generata a nice Julia set 
-plot just in 16-lines of code
+This program shows how to generate a nice Julia set 
+plot in 16-lines of code.
 
 # Author: 
 Bartosz Lew (bartosz.lew@protonmail.com)
